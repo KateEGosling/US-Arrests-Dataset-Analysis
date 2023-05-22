@@ -1,4 +1,4 @@
-# PCA Analaysis of US Arrests Dataset
+# PCA Analysis of US Arrests Dataset
 
 ## Description:
 This project uses PCA and two clustering methods to make predictions on the US Arrests Dataset.
